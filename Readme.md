@@ -3,6 +3,8 @@
 This is a follow up of a tutotrial from MDN with some of my own changes. The tutorial they have written is nice and you should check them out.
 MDN Express Tutorial - https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs
 
+### Check the Deployed Version [here](https://thawing-plains-34122.herokuapp.com/catalog).
+
 # Install & Run
 
 Download the Repository and then run the following commands.
