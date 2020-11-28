@@ -44,7 +44,6 @@ exports.book_list = (req, res, next) => {
         return next(err);
       }
       // Successful, so render
-      console.log(list_books);
       res.render("book_list", { title: "Book List", book_list: list_books });
     });
 };
