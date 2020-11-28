@@ -20,6 +20,7 @@ This will start a server at port 3000. Visit the link and test the various funct
 
 <hr>
 
-![](screenshots/BookInstance.png)BookInstance Page
+![](screenshots/BookInstance.png)
+BookInstance Page
 
 <hr>
