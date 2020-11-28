@@ -16,7 +16,7 @@ This will start a server at port 3000. Visit the link and test the various funct
 
 # Screenshots
 
-![](screenshots/index.png)Home Page
+![](screenshots/Index.png)Home Page
 
 <hr>
 
