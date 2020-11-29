@@ -20,7 +20,7 @@ block content
                 author._id.toString()==book.author._id
                 || author._id.toString()==book.author
               ) ? 'selected' : false
-            ) #{author.name}
+            ) #{author.first_name + " " + author.family_name}
           else
             option(value=author._id) #{author.name}
     div.form-group
